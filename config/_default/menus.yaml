@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 56525289-ed0c-6181-e21b-33d89ed325ee
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 44605915-67ff-38ae-d4ec-ceae6216cefd
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: external-739e62af357048a6ab45a4893f8ac8f8
+  name: Online Publication
+  url: https://biology.mit.edu/undergraduate/current-students/subject-offerings/covid-19-sars-cov-2-and-the-pandemic/
+  weight: 1000

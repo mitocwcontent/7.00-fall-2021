@@ -1,0 +1,24 @@
+---
+content_type: page
+title: Calendar
+uid: 44605915-67ff-38ae-d4ec-ceae6216cefd
+---
+
+Note: The guest speakers are among the leading scientists in diverse areas relevant to COVID-19. Some of these scientists are employed by biopharmaceutical companies; the selection of these speakers is not meant as an endorsement of these companies or their products. 
+
+| lec # | TOPIC & DaTE | SPEAKER |
+| --- | --- | --- |
+| 1 |  {{< br >}}{{< br >}} [COVID-19 and the Pandemic](https://www.youtube.com/watch?v=tXTtMJacNHA) {{< br >}}{{< br >}} 9/8/2021 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dr. Bruce D. Walker, Director of the [Ragon Institute of MGH, MIT and Harvard](https://ragoninstitute.org/) {{< br >}}{{< br >}}  |
+| 2 |  {{< br >}}{{< br >}} [Insights from the COVID-19 Pandemic](https://www.youtube.com/watch?v=Cv5P0bBiIVc) {{< br >}}{{< br >}} 9/15/2021 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dr. Anthony Fauci, Director of the [National Institute of Allergy and Infectious Diseases (NIAID)](https://www.niaid.nih.gov/) {{< br >}}{{< br >}}  |
+| 3 |  {{< br >}}{{< br >}} [Coronavirus Biology](https://www.youtube.com/watch?v=dcy5Sj74rj0) {{< br >}}{{< br >}} 9/22/2021 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dr. Britt Glaunsinger of [HHMI](http://www.hhmi.org/) and [UC Berkeley](https://www.berkeley.edu/) {{< br >}}{{< br >}}  |
+| 4 |  {{< br >}}{{< br >}} [Target Cells and the Innate Response](https://www.youtube.com/watch?v=Sgkjg0o6Zow) {{< br >}}{{< br >}} 9/29/2021 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dr. Shiv Pillai of the [Ragon Institute](https://ragoninstitute.org/), [MGH](https://www.massgeneral.org), and [Harvard](https://hms.harvard.edu/) {{< br >}}{{< br >}}  |
+| 5 |  {{< br >}}{{< br >}} [Public Health](https://www.youtube.com/watch?v=8UKXqzN6dJA) {{< br >}}{{< br >}} 10/5/2021 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dr. Rochelle Walensky, Director of the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/) {{< br >}}{{< br >}}  |
+| 6 |  {{< br >}}{{< br >}} [COVID-19: Looking Ahead at 2022](https://www.youtube.com/watch?v=DgSeRGYZufk) {{< br >}}{{< br >}} 10/13/2021 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dr. Salim S. Abdool Karim of [Columbia University](https://www.publichealth.columbia.edu/) {{< br >}}{{< br >}}  |
+| 7 |  {{< br >}}{{< br >}} [The Patient](https://www.youtube.com/watch?v=op3xxObR23c) {{< br >}}{{< br >}} 10/20/2021 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dr. Victoria Clark of [Whitehead Institute](https://wi.mit.edu/) and [MGH](https://www.massgeneral.org) {{< br >}}{{< br >}}  |
+| 8 |  {{< br >}}{{< br >}} [Vaccination through the Ages: From Smallpox to COVID-19 and Beyond](https://www.youtube.com/watch?v=7iLVG7tTjs8) {{< br >}}{{< br >}} 10/27/2021 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dr. Arup Chakraborty of [MIT](https://chakrabortygroup.scripts.mit.edu/people/) {{< br >}}{{< br >}}  |
+| 9 |  {{< br >}}{{< br >}} [Adaptive Immunity and Immune Memory to Sars-CoV-2 and COVID-19](https://www.youtube.com/watch?v=5OguBUfcZoA) {{< br >}}{{< br >}} 11/3/2021 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dr. Shane Crotty of the [La Jolla Institute for Immunology](http://www.lji.org) {{< br >}}{{< br >}}  |
+| 10 |  {{< br >}}{{< br >}} [The COVID-19 Clinic](https://www.youtube.com/watch?v=9JRglMkdMWM) {{< br >}}{{< br >}} 11/10/2021 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dr. Amy Barczak of the [Ragon Institute](https://ragoninstitute.org/) and [MGH](https://www.massgeneral.org) {{< br >}}{{< br >}}  |
+| 11 |  {{< br >}}{{< br >}} [Understanding the Structure of the Virus](https://www.youtube.com/watch?v=au7Hj75G66E) {{< br >}}{{< br >}} 11/17/2021 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dr. Andrew Ward of [DISCoBio at The Scripps Research Institute](https://ward.scripps.edu/core/members/) {{< br >}}{{< br >}}  |
+| 12 |  {{< br >}}{{< br >}} No class {{< br >}}{{< br >}} 11/24/2021 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
+| 13 |  {{< br >}}{{< br >}} [COVID-19 Vaccine Development](https://www.youtube.com/watch?v=FAMFH3tHWks) {{< br >}}{{< br >}} 12/1/2021 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dr. Dan Barouch of [Beth Israel Deaconess Medical Center](https://www.bidmc.org) and the [Ragon Institute](https://ragoninstitute.org/) {{< br >}}{{< br >}}  |
+| 14 |  {{< br >}}{{< br >}} [Broadly Neutralizing Antibodies to Speed Pandemic Responses](https://www.youtube.com/watch?v=NaIvkZhXJnI)  {{< br >}}{{< br >}} 12/8/2021 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dr. Laura Walker of [Adimab](https://www.adimab.com/) {{< br >}}{{< br >}}
